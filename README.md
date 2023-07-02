@@ -15,3 +15,5 @@ A collection of projects, experiments, and resources related to sound, music, an
   <img src="https://github.com/andresima0/AudioExperiences/assets/111400782/ab7bebe8-191c-4012-955b-a195a8fa4480)" 
     alt="BananaPedal01" width="600">
 </p>
+
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/bc9f4bbc-4bf5-43ee-a6d5-76373e65b5dd)" alt="BananaPedal02">
