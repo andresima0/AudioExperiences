@@ -17,3 +17,7 @@ A collection of projects, experiments, and resources related to sound, music, an
 </p>
 
 <img src="https://github.com/andresima0/AudioExperiences/assets/111400782/bc9f4bbc-4bf5-43ee-a6d5-76373e65b5dd)" alt="BananaPedal02">
+
+<p align="center">
+<img src="https://github.com/andresima0/Help-ESP32/assets/111400782/b8489577-0415-484b-8d4c-23e8d16af07f)" alt="SimpleFuzz" width="600">
+</p>
