@@ -21,3 +21,5 @@ A collection of projects, experiments, and resources related to sound, music, an
 <p align="center">
 <img src="https://github.com/andresima0/AudioExperiences/assets/111400782/991ee9fb-c491-4e65-88bd-770471402249)" alt="SimpleFuzz" width="600">
 </p>
+
+https://github.com/andresima0/AudioExperiences/assets/111400782/c5faff60-2e90-46a6-910b-d58be9328407
