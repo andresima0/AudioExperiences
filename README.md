@@ -49,7 +49,9 @@ A collection of projects, experiments, and resources related to sound, music, an
 
 <p align="center">
 <img src="https://github.com/andresima0/AudioExperiences/assets/111400782/34ea2767-892a-4433-9983-0cd9369b4835" 
-  alt="NOS_Components" width="1000">
+  alt="NOS_Components" width="500">
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/e5cb78a6-b74e-4229-adb7-67cee156c7cd" 
+  alt="Ge_Transistors" width="500">
 </p>
 
 <p align="center">
