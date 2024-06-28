@@ -19,7 +19,11 @@ A collection of projects, experiments, and resources related to sound, music, an
 <img src="https://github.com/andresima0/AudioExperiences/assets/111400782/bc9f4bbc-4bf5-43ee-a6d5-76373e65b5dd)" 
   alt="BananaPedal02">
 
-https://github.com/andresima0/AudioExperiences/assets/111400782/c5faff60-2e90-46a6-910b-d58be9328407
+<div align="center">
+  <video src="https://github.com/andresima0/AudioExperiences/assets/111400782/c5faff60-2e90-46a6-910b-d58be9328407"
+    alt="ESP-Pedal">
+</div>
+
 
 <p align="center">
 <img src="https://github.com/andresima0/AudioExperiences/assets/111400782/991ee9fb-c491-4e65-88bd-770471402249)" 
@@ -33,5 +37,7 @@ https://github.com/andresima0/AudioExperiences/assets/111400782/c5faff60-2e90-46
     alt="Concept" width="400">
 </p>
 
-
-https://github.com/andresima0/ESP-Pedal/assets/111400782/b621e8cf-fad7-4fbe-9e6e-c1bed93e702f
+<div align="center">
+  <video src="https://github.com/andresima0/ESP-Pedal/assets/111400782/b621e8cf-fad7-4fbe-9e6e-c1bed93e702f"
+    alt="ESP-Pedal">
+</div>
