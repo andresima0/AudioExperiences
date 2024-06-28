@@ -16,11 +16,22 @@ A collection of projects, experiments, and resources related to sound, music, an
     alt="BananaPedal01" width="600">
 </p>
 
-<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/bc9f4bbc-4bf5-43ee-a6d5-76373e65b5dd)" alt="BananaPedal02">
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/bc9f4bbc-4bf5-43ee-a6d5-76373e65b5dd)" 
+  alt="BananaPedal02">
 
 https://github.com/andresima0/AudioExperiences/assets/111400782/c5faff60-2e90-46a6-910b-d58be9328407
 
 <p align="center">
-<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/991ee9fb-c491-4e65-88bd-770471402249)" alt="SimpleFuzz" width="600">
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/991ee9fb-c491-4e65-88bd-770471402249)" 
+  alt="SimpleFuzz" width="600">
 </p>
 
+<p align="center">
+  <img src="https://github.com/andresima0/ESP-Pedal/assets/111400782/b8e48f17-a602-4b2e-b559-7b2bd06203ca" 
+    alt="Concept" width="400">
+   <img src="https://github.com/andresima0/ESP-Pedal/assets/111400782/b6096cab-8382-4ba8-95a7-f57b1736c63f" 
+    alt="Concept" width="400">
+</p>
+
+
+https://github.com/andresima0/ESP-Pedal/assets/111400782/b621e8cf-fad7-4fbe-9e6e-c1bed93e702f
