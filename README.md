@@ -41,3 +41,18 @@ A collection of projects, experiments, and resources related to sound, music, an
   <video src="https://github.com/andresima0/ESP-Pedal/assets/111400782/b621e8cf-fad7-4fbe-9e6e-c1bed93e702f"
     alt="ESP-Pedal">
 </div>
+
+<p align="center">
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/efd61d9a-0f14-440e-b288-7bf152f3da02" 
+  alt="Delay_Reverb" width="600">
+</p>
+
+<p align="center">
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/34ea2767-892a-4433-9983-0cd9369b4835" 
+  alt="NOS_Components" width="1000">
+</p>
+
+<p align="center">
+<img src="https://github.com/andresima0/AudioExperiences/assets/111400782/7964c916-bbd3-45b4-b160-7f59f63caaa6" 
+  alt="Tremolo" width="800">
+</p>
